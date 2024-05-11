@@ -1,0 +1,10 @@
+{
+  "name": "com.spicyoverlord.spicytilemapeditor",
+  "displayName": "Spicy Tilemap Editor",
+  "version": "1.0.0",
+  "description": "SpicyTilemapEditor is a simple tilemap system.",
+  "author": {
+    "name": "Spicy Overlord",
+    "url": "https://github.com/SpicyOverlord"
+  }
+}
