@@ -1,0 +1,18 @@
+{
+    "name": "SpicyTilemapEditor.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3bc209eb90fdc48af8f5cc7e142d4840"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

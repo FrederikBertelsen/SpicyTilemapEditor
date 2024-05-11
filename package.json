@@ -1,0 +1,13 @@
+{
+  "name": "com.spicytilemapeditor",
+  "displayName": "Spicy Tilemap Editor",
+  "version": "1.0.0",
+  "description": "SpicyTilemapEditor is a simple tilemap Editor.",
+  "author": {
+    "name": "Spicy Overlord",
+    "url": "https://github.com/SpicyOverlord"
+  },
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0"
+  }
+}
